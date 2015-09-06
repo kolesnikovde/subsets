@@ -1,0 +1,25 @@
+{
+  "name": "subsets",
+  "version": "1.0.0",
+  "description": "groupBy with comparison function.",
+  "author": "Danil Kolesnikov <kolesnikovde@gmail.com>",
+  "homepage": "https://github.com/kolesnikovde/subsets",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kolesnikovde/subsets.git"
+  },
+  "keywords": [
+    "divide",
+    "groups",
+    "subsets",
+    "sets"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "2.3.0"
+  }
+}
