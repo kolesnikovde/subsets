@@ -2,6 +2,10 @@
 
 `groupBy` with comparison function.
 
+### Installation
+
+    $ npm i subsets
+
 ### Usage
 
 ```js
