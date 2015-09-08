@@ -1,7 +1,7 @@
 {
   "name": "subsets",
   "version": "1.0.0",
-  "description": "groupBy with comparison function.",
+  "description": "groupBy with connectivity function.",
   "author": "Danil Kolesnikov <kolesnikovde@gmail.com>",
   "homepage": "https://github.com/kolesnikovde/subsets",
   "main": "index.js",

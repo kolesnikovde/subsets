@@ -1,6 +1,6 @@
 # subsets
 
-`groupBy` with comparison function.
+`groupBy` with connectivity function.
 
 ### Installation
 
@@ -22,7 +22,7 @@ console.log(sets);
 // [[1, 4, 6], [10], [25, 26]]
 
 console.log(checks);
-// 12
+// 15
 ```
 
 ### License
