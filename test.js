@@ -14,7 +14,7 @@ describe('subsets', function() {
     assert.deepEqual(sets, [[1, 4, 6], [10], [25, 25, 26]]);
   });
 
-  describe('complex exampes', function() {
+  describe('complex examples', function() {
     it('groups serial events in same category', function() {
       var events = [
         { id: 1, type: 'A', createdAt: new Date('2015-09-06 20:45') },
